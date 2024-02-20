@@ -4,3 +4,8 @@ Java es un lenguaje de programación de alto nivel y orientado a objetos, desarr
 
 Aquí hay algunas características principales de Java:
 
+Seguridad: Java incorpora características de seguridad integradas en su diseño para ayudar a proteger los sistemas contra virus y malware. Por ejemplo, la JVM controla el acceso a recursos del sistema y utiliza un modelo de seguridad basado en clases para proteger contra operaciones potencialmente peligrosas.
+
+Multiplataforma: Java es compatible con diversas plataformas, incluyendo Windows, macOS, Linux y otros sistemas operativos. Esto lo convierte en una opción popular para el desarrollo de aplicaciones empresariales y de escritorio, así como para el desarrollo de aplicaciones móviles en Android.
+
+Gran ecosistema: Java tiene una amplia biblioteca estándar (Java Standard Edition) que proporciona funcionalidades para tareas comunes de programación, como entrada/salida, manipulación de datos, redes, concurrencia, entre otras. Además, cuenta con una gran comunidad de desarrolladores y una amplia gama de herramientas y frameworks que facilitan el desarrollo de aplicaciones en Java.
