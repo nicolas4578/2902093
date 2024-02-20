@@ -1,1 +1,6 @@
 hola saludos 
+
+Java es un lenguaje de programación de alto nivel y orientado a objetos, desarrollado por Sun Microsystems (adquirido posteriormente por Oracle Corporation). Fue lanzado por primera vez en 1995 y desde entonces ha ganado una amplia popularidad en el mundo del desarrollo de software debido a su portabilidad, flexibilidad y robustez.
+
+Aquí hay algunas características principales de Java:
+
